@@ -21,7 +21,7 @@
 |:--------:|:--------:|:--------:|
 | ![screenshot1](https://github.com/Oein/SmartShot-public-repo/blob/main/cap1.jpg?raw=true) | ![screenshot2](https://github.com/Oein/SmartShot-public-repo/blob/main/cap2.jpg?raw=true) | ![screenshot3](https://github.com/Oein/SmartShot-public-repo/blob/main/cap3.jpg?raw=true) |
 
-# 세션 시작시 화면 공유 안내 없이 사용하기.
+# 세션 시작시 화면 공유 안내 없이 사용하기
 
 1. [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en_US) 설치.
 2. [App ops](https://play.google.com/store/apps/details?id=rikka.appops&hl=en_US) 설치.
@@ -30,3 +30,8 @@
 5. 스마트샷 선택
 6. 미디어 프로젝션 선택
 7. 허용으로 변경
+
+# 세션이 활성화 되어 있을때 알림이 보이지 않는 문제 해결하기
+
+1. [개발자 모드 활성화](https://news.ajd.co.kr/news/articleView.html?idxno=166)
+2. 개발자 옵션 > [앱] 화면 공유 보호 끄기
